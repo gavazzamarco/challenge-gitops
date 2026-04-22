@@ -1,0 +1,6 @@
+namespace: pr-2
+deploymentName: challenge-app-pr-2
+serviceName: challenge-app-pr-2
+image:
+  repository: ghcr.io/gavazzamarco/challenge-app
+  tag: 20b391f596fc1c333bee70edb32b4ef92ea61ebe
