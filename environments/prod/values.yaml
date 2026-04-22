@@ -1,0 +1,3 @@
+image:
+  repository: ghcr.io/gavazzamarco/challenge-app
+  tag: v1.0.0
